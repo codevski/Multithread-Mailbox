@@ -8,6 +8,8 @@ A Simple Multithreaded messaging mailbox written in C for Linux.
 
 Extract all contents to one folder.
 
+Compile central44t.c to `central44t` and external44t.c to `external44t`
+
 ## Usage
 
 ./multi
